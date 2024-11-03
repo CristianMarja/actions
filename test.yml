@@ -1,0 +1,11 @@
+key: Hola mundo
+
+person:
+  name: Jhon
+  age: 30
+  city: new york
+
+scripts:
+  hola
+  hola
+  testort
