@@ -4,8 +4,16 @@ person:
   name: Jhon
   age: 30
   city: new york
+  items:
+    - item1
+    - item2
+    - item3
+
+  items2:
+    - item1: hola
+    - item2: hola
+    - item3: hola
 
 scripts:
-  hola
-  hola
-  testort
+  touch hola.txt
+  echo "Hola";
